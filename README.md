@@ -10,9 +10,9 @@ API where we practice coding middleware and deployment.
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions)
-- [back-end server url](http://xyz.com) (when applicable)
-
+- [GitHub Actions ci/cd](https://github.com/Rafael-Aldana/server-deployment-practice/actions)
+- [back-end server dev url](https://server-deployment-practice-dev-0ptx.onrender.com)
+- [back-end server prod url](https://server-deployment-practice-prod-uh9b.onrender.com)
 
 ### Setup
 
